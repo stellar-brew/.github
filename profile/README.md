@@ -1,25 +1,26 @@
-<div align="center">
-
 # Stellar Brew
 
-_Play-to-earn tea blending on Stellar_
+> **Play-to-earn tea blending on Stellar**
 
-[![stellar-tea](https://img.shields.io/badge/stellar-tea-fb923c?style=for-the-badge)](https://github.com/stellar-brew/stellar-tea)
-
-</div>
-
-## What we do
+![Built on Stellar](https://img.shields.io/badge/built%20on-Stellar-0ea5e9?style=for-the-badge&logo=stellar&logoColor=white)
 
 Stellar Tea is a blockchain play-to-earn game combining collaborative NFT crafting, a dual-token economy, and gamified progression.
 
-1. **Collaborative NFT crafting** — mint flavour-forward tea NFTs and fuse them into rarity-defining collectibles
-2. **Dual-token sinks** — gamified progression that compounds treasury growth
-3. **Fee-engineered marketplace** — trading with real-time supply burns
+## At a glance
 
-## Build
+| Area | What it means |
+| --- | --- |
+| Collaborative NFT crafting | mint flavour-forward tea NFTs and fuse them into rarity-defining collectibles |
+| Dual-token sinks | gamified progression that compounds treasury growth |
+| Fee-engineered marketplace | trading with real-time supply burns |
 
-`Soroban` · `Rust` · `Next.js` · `Stellar` · `Freighter`
+## Part of the Stellar ecosystem
 
----
+This project is part of the **Stellar** ecosystem, built with **Soroban** for on-chain logic and public, auditable settlement.
 
-Start here: [stellar-brew/stellar-tea](https://github.com/stellar-brew/stellar-tea)
+Repository: https://github.com/stellar-brew/stellar-tea
+
+**Stellar** — https://stellar.org  
+**Soroban** — https://soroban.stellar.org
+
+`Soroban` · `Rust` · `Next.js` · `Stellar` · `Freighter` · Stellar · Soroban
